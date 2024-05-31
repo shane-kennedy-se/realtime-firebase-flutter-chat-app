@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117960354012",
+    "project_id": "realtime-chat-app-d6cbb",
+    "storage_bucket": "realtime-chat-app-d6cbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117960354012:android:c5bccc017051b01e732c19",
+        "android_client_info": {
+          "package_name": "com.example.lab_8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0g2rQu_V-wDF6FsP5RZVDmm5BHP922MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
